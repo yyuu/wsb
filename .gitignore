@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+*.swo
+*.swp
+/*.conf
+/*.egg-info
+/.bundle
+/build
+/dist
+/tmp
+/tools
+/vendor
